@@ -14,7 +14,7 @@ Deployment instructions:
 		○ Default: C:\Program Files\K2\ServiceBroker
 	• Make sure Service Types are registered.
 		○ You should know how to do this from Partner On-boarding training
-		○ Documentation is here: Registering Custom Service Brokers (nintex.com)
+		○ Documentation is at: Registering Custom Service Brokers (nintex.com)
 	• Register an instance of each deployed service broker.
 		○ You should know how to do this from your partner On-boarding training
 		○ K2 Management Site -> Integration -> Service Instances -> Add
