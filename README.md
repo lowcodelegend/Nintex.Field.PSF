@@ -7,6 +7,8 @@ It's not designed for production application delivery, but that resulting apps c
 
 It's designed to be very quick to start using
 
+Latest K2 packages can be downloaded here until a build pipeline is in place: https://tinyurl.com/nintexpsflatest
+
 Deployment instructions:
 
 	• Ensure Latest K2 (At least K2 5.6)
