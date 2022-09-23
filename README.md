@@ -1,13 +1,15 @@
 # Nintex.Field.PSF
 Nintex K2 PreSalesFramework
 
-Nintex K2 PreSalesFramework is a framwork for our customers and partners to rapidly prototype Case Management sytle applications while demonstrating the best Nintex K2 has to offer in terms of prebuilt components, integration of multiple community projects, as well as providing a number of its own innovation such as Progressive Web Applicaton support, Workflow, SmartObject, and SmartForm generation, Azure B2C Integration, Nintex Promapp integration and much more.
+Nintex K2 PreSalesFramework is a framework for our customers and partners to rapidly prototype Case Management sytle applications while demonstrating the best Nintex K2 has to offer in terms of prebuilt components, integration of community projects, as well as providing a number of its own innovation such as Progressive Web Applicaton support, Workflow, SmartObject, and SmartForm generation, Azure B2C Integration, Nintex Promapp integration and much more.
 
-It's not designed for production application delivery, but that resulting apps could be made so.
+It's not designed for production application delivery, it's for quickly demonstrating the art of the possible!
 
-It's designed to be very quick to start using
+It's designed to be very quick to start.
 
-Latest K2 packages can be downloaded here until a build pipeline is in place: https://tinyurl.com/nintexpsflatest
+Latest K2 packages can be downloaded here: https://tinyurl.com/nintexpsflatest
+
+An introducton video is available here:  <VIMEO LINK>
 
 Deployment instructions:
 
